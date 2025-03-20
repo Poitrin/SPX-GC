@@ -11,7 +11,6 @@ html,
         flex-direction: column;
         justify-content: center;
         font-family: 'UI-Regular';
-        background-color: rgb(0,0,0);
     }
 
     *, *:before, *:after {
